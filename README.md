@@ -3,5 +3,5 @@ Sistema de ingresantes de un examen de admisión que permite registrar un las pr
 
 <div align="center">
 <img src="src/media/menu-principal.png">
-<p><strong>Imagen:</strong> Menú principal - Registrar trabajador.</p>
+<p><strong>Imagen:</strong> Menú principal - Registrar postulante.</p>
 </div>
